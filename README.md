@@ -1,0 +1,2 @@
+
+Facebook Connect Cordova Plugin
